@@ -1,4 +1,6 @@
 [core]
-    remote = drive
+    remote = myremote
 ['remote "drive"']
     url = G:\.shortcut-targets-by-id\1wUshldYyghbN2MJotfWffFYtpWjehbOh\MIAD\Data
+['remote "myremote"']
+    url = gdrive://1X8ynl8GUu1FaHUawEw58crtAlzRaT6ab

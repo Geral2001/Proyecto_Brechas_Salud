@@ -1,1 +1,18 @@
-/Data
+# =========================
+# ARCHIVOS DE DATOS
+# =========================
+/Data/
+/data/
+/datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# =========================
+# ARCHIVOS SENSIBLES / CREDENCIALES
+# =========================
+client_secret_*.json
+*.env
+secrets.json
+credentials.json
