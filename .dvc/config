@@ -1,5 +1,5 @@
 [core]
-    remote = drive
-['remote "drive"']
+    remote = gdrive_remote
+
+['remote "gdrive_remote"']
     url = gdrive://1X8ynl8GUu1FaHUawEw58crtAlzRaT6ab
-    gdrive_use_service_account = false
